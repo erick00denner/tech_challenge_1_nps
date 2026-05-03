@@ -1,0 +1,16 @@
+# =====================================================
+# Tech Challenge - NPS (Data Science Project)
+# =====================================================
+
+# 📊 Manipulação de dados
+pandas==2.0.3
+numpy==1.24.4
+
+# 📈 Visualização
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# 📓 Ambiente de notebook
+notebook==7.0.6
+ipykernel==6.25.0
+
